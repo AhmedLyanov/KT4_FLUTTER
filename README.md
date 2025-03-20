@@ -1,4 +1,4 @@
-# kt4_flutter
+# counter_app
 
 A new Flutter project.
 
